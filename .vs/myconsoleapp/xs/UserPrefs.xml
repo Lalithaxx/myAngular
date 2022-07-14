@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{01E7D5CB-BB47-4D67-87F9-45496A8CC354}|Default">
+  <MonoDevelop.Ide.ItemProperties.Class__and__Object PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstract/Program.cs">
+    <Files>
+      <File FileName="Abstract/Program.cs" Line="19" Column="10" />
+      <File FileName="Abstract/shape.cs" Line="52" Column="53" />
+      <File FileName="Abstract/circle.cs" Line="34" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myconsoleapp" expanded="True">
+            <Node name="AbstractDemo" expanded="True" selected="True" />
+            <Node name="Class_and_Object" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.myconsoleapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.csproj.AssemblyReference.cache
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.AssemblyInfoInputs.cache
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.AssemblyInfo.cs
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.csproj.CoreCompileInputs.cache
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/bin/Debug/netcoreapp3.1/Class_and_Object.deps.json
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/bin/Debug/netcoreapp3.1/Class_and_Object.runtimeconfig.json
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/bin/Debug/netcoreapp3.1/Class_and_Object.runtimeconfig.dev.json
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/bin/Debug/netcoreapp3.1/Class_and_Object.dll
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/bin/Debug/netcoreapp3.1/Class_and_Object.pdb
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.dll
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.pdb
+/Users/lalitha/Desktop/myconsoleapp/Class_and_Object/obj/Debug/netcoreapp3.1/Class_and_Object.genruntimeconfig.cache

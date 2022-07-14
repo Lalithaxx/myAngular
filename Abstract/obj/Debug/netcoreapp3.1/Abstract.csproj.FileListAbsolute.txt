@@ -1,0 +1,13 @@
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.csproj.AssemblyReference.cache
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.AssemblyInfoInputs.cache
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.AssemblyInfo.cs
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.csproj.CoreCompileInputs.cache
+/Users/lalitha/Desktop/myconsoleapp/Abstract/bin/Debug/netcoreapp3.1/Abstract.deps.json
+/Users/lalitha/Desktop/myconsoleapp/Abstract/bin/Debug/netcoreapp3.1/Abstract.runtimeconfig.json
+/Users/lalitha/Desktop/myconsoleapp/Abstract/bin/Debug/netcoreapp3.1/Abstract.runtimeconfig.dev.json
+/Users/lalitha/Desktop/myconsoleapp/Abstract/bin/Debug/netcoreapp3.1/Abstract.dll
+/Users/lalitha/Desktop/myconsoleapp/Abstract/bin/Debug/netcoreapp3.1/Abstract.pdb
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.dll
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.pdb
+/Users/lalitha/Desktop/myconsoleapp/Abstract/obj/Debug/netcoreapp3.1/Abstract.genruntimeconfig.cache
